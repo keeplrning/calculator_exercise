@@ -1,4 +1,4 @@
-# claculator_exercise
+# calculator_exercise
 
 ### Prefix Calculator
 
